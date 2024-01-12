@@ -15,7 +15,7 @@
  
 ---
 ### 💻Technology:
-
+<img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" title="git" alt="git" width="40" height="40"/>&nbsp
 ---
 ### 🛠 Tools:
 
