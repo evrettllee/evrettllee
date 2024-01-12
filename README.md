@@ -15,7 +15,7 @@
  
 ---
 ### 💻Technology:
-<img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" title="C++" alt="C++ badge" width="40" height="40"/> 
+<img src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" title="C++" alt="C++ badge" width="40" height="40"/> &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/256/5968/5968350.png" title="Python" alt="C++ badge" width="40" height="40"/> 
 ---
 ### 🛠 Tools:
