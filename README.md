@@ -6,3 +6,9 @@ Hi, my name is Pavel!
 📣Social media:
 
 ---
+💻Technology:
+
+---
+🛠 Tools:
+
+---
