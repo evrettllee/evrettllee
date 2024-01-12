@@ -25,8 +25,9 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-1868941-1583105.png?f=webp&w=256" title="Visual Studio Code" alt="visual Studio Code Badge" width="40" height="40"/> 
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evrettllee&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evrettllee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evrettllee&layout=compact)
+
 
 
 
