@@ -8,7 +8,7 @@
     <a href="https://vk.com/evrettlee" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-  <a href="https://vk.com/evrettlee" target="_blank">
+  <a href="https://www.instagram.com/evrettlee/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/256/2111/2111463.png" width="40" height="40" alt="Instagram Badge"/>
     </a>
  </div>
