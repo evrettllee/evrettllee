@@ -7,10 +7,10 @@
 ### 📣Social media:
  <div id="badges">
     <a href="https://vk.com/evrettlee" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" title="VK" alt="VK Badge"/>
     </a>
   <a href="https://www.instagram.com/evrettlee/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/256/2111/2111463.png" width="40" height="40" alt="Instagram Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/256/2111/2111463.png" width="40" height="40" title="Instagram" alt="Instagram Badge"/>
     </a>
  </div>
  
